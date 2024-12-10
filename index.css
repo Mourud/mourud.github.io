@@ -26,11 +26,11 @@
 main{
   margin: 30px;
 }
-/* .grid-item{
+.grid-item{
     display: grid;
     background: #fcbf49;
     color: #eae2b7;
     align-self: center;
     justify-items: center;
     border: 10px solid black ;
-} */
+}
